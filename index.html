@@ -17,6 +17,15 @@
             <input type="text" placeholder="nome ou gênero do jogo" id="campo-pesquisa">
             <button onclick="pesquisar()">Pesquisar</button>
         </section>
+        <script>
+                const campoPesquisa = document.getElementById('campo-pesquisa');
+            
+                campoPesquisa.addEventListener('keypress', (event) => {
+                    if (event.key === 'Enter') {
+                        pesquisar();
+                    }
+                });
+            </script>
         <section class="resultados-pesquisa"
         id ="resultados-pesquisa">
         </section>
