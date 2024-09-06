@@ -37,7 +37,3 @@ Esta aplicação web permite aos usuários pesquisar por jogos do Nintendo Switc
     * **Ordenação:** Permitir que os resultados sejam ordenados por título, data de lançamento, etc.
     * **Filtros:** Adicionar filtros por plataforma, gênero, desenvolvedor, etc.
     * **Detalhes do Jogo:** Ao clicar em um resultado, exibir uma página com detalhes completos sobre o jogo.
-
-**Este README.md fornece uma visão geral clara e concisa da sua aplicação, facilitando a compreensão tanto para você quanto para outros desenvolvedores.**
-
-**Você gostaria de adicionar mais alguma informação ou funcionalidade à sua aplicação?**
