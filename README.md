@@ -30,10 +30,3 @@ Esta aplicação web permite aos usuários pesquisar por jogos do Nintendo Switc
 * `dados.js`: Arquivo JSON com os dados dos jogos.
 * `app.js`: Arquivo JavaScript com a lógica da aplicação.
 * `README.md`: Este arquivo.
-
-### Considerações
-* **Otimizações:** Para grandes conjuntos de dados, considere implementar algoritmos de busca mais eficientes, como o algoritmo de Levenshtein para correção ortográfica.
-* **Funcionalidades Adicionais:** É possível adicionar funcionalidades como:
-    * **Ordenação:** Permitir que os resultados sejam ordenados por título, data de lançamento, etc.
-    * **Filtros:** Adicionar filtros por plataforma, gênero, desenvolvedor, etc.
-    * **Detalhes do Jogo:** Ao clicar em um resultado, exibir uma página com detalhes completos sobre o jogo.
